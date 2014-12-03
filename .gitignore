@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Other
+*.user
+*.suo
